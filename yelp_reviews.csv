@@ -1,0 +1,612 @@
+restaurant,cuisine,review,stars,useful_votes,funny_votes,cool_votes
+The Golden Fork,Italian,"Superb dining experience, will bring my family next time. Service was top notch.",5,7,6,25
+The Golden Fork,Italian,Never again! Dry overcooked meat and soggy vegetables. Will not be returning.,2,23,3,7
+The Golden Fork,Italian,"The food was divine, fresh ingredients and generous portions.",5,1,11,29
+The Golden Fork,Italian,Nothing special but would probably return if nearby. Might try again someday.,3,11,11,24
+The Golden Fork,Italian,"Standard fare, nothing memorable about the experience.",3,27,15,14
+The Golden Fork,Italian,"Superb dining experience, will bring my family next time. Service was top notch.",4,43,19,24
+The Golden Fork,Italian,Overpriced and the food was bland and disappointing. Will not be returning.,1,20,8,6
+The Golden Fork,Italian,"Horrible experience, the manager was unhelpful and rude.",1,13,17,25
+The Golden Fork,Italian,"Fantastic experience from start to finish, highly recommend! Perfect for special occasions.",4,19,14,27
+The Golden Fork,Italian,"Complete waste of money, microwave quality at restaurant prices. Will not be returning.",2,34,13,16
+The Golden Fork,Italian,"Reasonable place, the pasta was decent but uninspiring.",3,1,5,21
+The Golden Fork,Italian,"The food was divine, fresh ingredients and generous portions.",4,17,11,1
+The Golden Fork,Italian,Outstanding service and the pasta was perfectly cooked. Prices are very reasonable.,4,39,15,12
+The Golden Fork,Italian,Nothing special but would probably return if nearby.,3,25,12,8
+The Golden Fork,Italian,Decent food but nothing that blew me away really. Might try again someday.,3,6,8,23
+The Golden Fork,Italian,"Perfect date night spot, romantic ambiance and delicious food. Service was top notch.",4,16,7,2
+The Golden Fork,Italian,"Hidden gem in the city, every dish was a masterpiece.",5,41,6,25
+The Golden Fork,Italian,"Absolutely disgusting, sent food back twice and left hungry. Reported to health department.",2,7,11,1
+The Golden Fork,Italian,"Absolutely disgusting, sent food back twice and left hungry. Will not be returning.",2,23,4,2
+The Golden Fork,Italian,"The food was divine, fresh ingredients and generous portions. Service was top notch.",4,34,0,2
+The Golden Fork,Italian,Overpriced and the food was bland and disappointing. Reported to health department.,2,4,13,6
+The Golden Fork,Italian,"Food took forever and arrived cold, totally unacceptable. Asked for a refund.",1,12,18,6
+The Golden Fork,Italian,"Five stars all the way, food was piping hot and delicious! Prices are very reasonable.",4,29,4,22
+The Golden Fork,Italian,"Superb dining experience, will bring my family next time. Service was top notch.",5,28,3,12
+The Golden Fork,Italian,Never again! Dry overcooked meat and soggy vegetables. Will not be returning.,1,21,1,9
+The Golden Fork,Italian,"Best meal I have had in years, exceeded all expectations!",5,5,11,11
+The Golden Fork,Italian,Loved the ambiance and the chef really knows their craft. Service was top notch.,4,27,6,29
+The Golden Fork,Italian,"Horrible experience, the manager was unhelpful and rude. Will not be returning.",2,12,8,2
+The Golden Fork,Italian,"Complete waste of money, microwave quality at restaurant prices. Will not be returning.",1,8,4,0
+The Golden Fork,Italian,Appalling hygiene standards and tasteless food throughout.,2,14,8,19
+The Golden Fork,Italian,"Absolutely amazing food, best restaurant in the city! Perfect for special occasions.",4,11,6,1
+The Golden Fork,Italian,"Fantastic experience from start to finish, highly recommend! The chef deserves a raise!",5,16,16,1
+The Golden Fork,Italian,"The food was divine, fresh ingredients and generous portions.",4,31,0,0
+The Golden Fork,Italian,"Average experience, food was okay and service was fine. Might try again someday.",3,43,5,22
+The Golden Fork,Italian,"Hidden gem in the city, every dish was a masterpiece. Service was top notch.",5,16,5,23
+The Golden Fork,Italian,"Incredible flavors, friendly staff and cozy atmosphere. Service was top notch.",4,47,15,0
+The Golden Fork,Italian,Never again! Dry overcooked meat and soggy vegetables. Asked for a refund.,2,15,2,19
+The Golden Fork,Italian,Outstanding service and the pasta was perfectly cooked. Service was top notch.,4,25,2,18
+The Golden Fork,Italian,Exceptional quality and the dessert was absolutely heavenly. Prices are very reasonable.,4,40,0,7
+The Golden Fork,Italian,"Incredible flavors, friendly staff and cozy atmosphere. The chef deserves a raise!",4,10,17,22
+The Golden Fork,Italian,"Wonderful staff, quick service and incredibly tasty dishes. Service was top notch.",4,6,15,25
+The Golden Fork,Italian,Outstanding service and the pasta was perfectly cooked. Prices are very reasonable.,5,48,1,0
+The Golden Fork,Italian,Appalling hygiene standards and tasteless food throughout. Reported to health department.,2,36,8,8
+The Golden Fork,Italian,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",4,23,0,23
+The Golden Fork,Italian,"Absolutely amazing food, best restaurant in the city! Prices are very reasonable.",5,37,7,19
+The Golden Fork,Italian,Loved the ambiance and the chef really knows their craft. The chef deserves a raise!,4,34,17,13
+The Golden Fork,Italian,"The food was divine, fresh ingredients and generous portions. Service was top notch.",4,15,8,3
+The Golden Fork,Italian,"Absolutely amazing food, best restaurant in the city!",5,47,19,23
+The Golden Fork,Italian,Exceptional quality and the dessert was absolutely heavenly. Service was top notch.,5,16,0,15
+The Golden Fork,Italian,Overpriced and the food was bland and disappointing. Asked for a refund.,2,21,13,29
+The Golden Fork,Italian,"Five stars all the way, food was piping hot and delicious! Service was top notch.",5,7,1,20
+The Golden Fork,Italian,Great value for money and the flavors were authentic. The chef deserves a raise!,4,4,15,18
+The Golden Fork,Italian,"Absolutely amazing food, best restaurant in the city! The chef deserves a raise!",4,43,13,20
+The Golden Fork,Italian,Great value for money and the flavors were authentic. The chef deserves a raise!,5,36,16,13
+The Golden Fork,Italian,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",5,32,19,28
+The Golden Fork,Italian,Exceptional quality and the dessert was absolutely heavenly. The chef deserves a raise!,4,2,17,24
+Spice Garden,Indian,"Wonderful staff, quick service and incredibly tasty dishes. Service was top notch.",5,39,13,23
+Spice Garden,Indian,"Met my expectations, no more and no less honestly. Service was acceptable.",3,1,9,1
+Spice Garden,Indian,"Perfect date night spot, romantic ambiance and delicious food. The chef deserves a raise!",4,8,10,21
+Spice Garden,Indian,"Five stars all the way, food was piping hot and delicious! Perfect for special occasions.",4,25,2,17
+Spice Garden,Indian,"Five stars all the way, food was piping hot and delicious! Prices are very reasonable.",5,6,3,12
+Spice Garden,Indian,"Reasonable place, the pasta was decent but uninspiring.",3,45,15,13
+Spice Garden,Indian,Exceptional quality and the dessert was absolutely heavenly. Prices are very reasonable.,5,33,1,22
+Spice Garden,Indian,"Loved every bite, will definitely come back again soon! The chef deserves a raise!",5,21,16,19
+Spice Garden,Indian,Stale ingredients and the whole place smelled unpleasant. Will not be returning.,1,36,0,7
+Spice Garden,Indian,Great value for money and the flavors were authentic. Prices are very reasonable.,5,4,6,3
+Spice Garden,Indian,Outstanding service and the pasta was perfectly cooked. Service was top notch.,5,39,19,15
+Spice Garden,Indian,Great value for money and the flavors were authentic. Perfect for special occasions.,5,29,18,16
+Spice Garden,Indian,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",4,25,4,25
+Spice Garden,Indian,Exceptional quality and the dessert was absolutely heavenly. The chef deserves a raise!,5,11,0,25
+Spice Garden,Indian,"Superb dining experience, will bring my family next time. Perfect for special occasions.",5,31,15,24
+Spice Garden,Indian,"Fantastic experience from start to finish, highly recommend! The chef deserves a raise!",5,15,6,4
+Spice Garden,Indian,Exceptional quality and the dessert was absolutely heavenly. Service was top notch.,5,11,15,18
+Spice Garden,Indian,"Best meal I have had in years, exceeded all expectations!",5,13,4,14
+Spice Garden,Indian,Rude staff and the portion sizes were ridiculously small. Reported to health department.,1,11,15,25
+Spice Garden,Indian,"Fantastic experience from start to finish, highly recommend! Prices are very reasonable.",5,32,4,22
+Spice Garden,Indian,Stale ingredients and the whole place smelled unpleasant. Reported to health department.,1,35,1,19
+Spice Garden,Indian,"Wonderful staff, quick service and incredibly tasty dishes. Service was top notch.",4,31,0,23
+Spice Garden,Indian,Outstanding service and the pasta was perfectly cooked. Perfect for special occasions.,5,48,19,23
+Spice Garden,Indian,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",5,32,0,28
+Spice Garden,Indian,"Fantastic experience from start to finish, highly recommend! Prices are very reasonable.",4,2,0,0
+Spice Garden,Indian,"Hidden gem in the city, every dish was a masterpiece. Prices are very reasonable.",5,28,12,11
+Spice Garden,Indian,"Worst restaurant experience I have ever had, never returning. Reported to health department.",2,49,2,22
+Spice Garden,Indian,"Complete waste of money, microwave quality at restaurant prices. Reported to health department.",1,25,9,25
+Spice Garden,Indian,"Loved every bite, will definitely come back again soon! The chef deserves a raise!",4,6,3,25
+Spice Garden,Indian,"Five stars all the way, food was piping hot and delicious! Service was top notch.",5,28,3,24
+Spice Garden,Indian,"Best meal I have had in years, exceeded all expectations! Prices are very reasonable.",5,9,4,8
+Spice Garden,Indian,"Loved every bite, will definitely come back again soon! The chef deserves a raise!",4,34,15,3
+Spice Garden,Indian,Exceptional quality and the dessert was absolutely heavenly.,4,11,16,22
+Spice Garden,Indian,"Best meal I have had in years, exceeded all expectations! Service was top notch.",5,40,16,16
+Spice Garden,Indian,"Best meal I have had in years, exceeded all expectations!",4,18,16,3
+Spice Garden,Indian,"Horrible experience, the manager was unhelpful and rude. Will not be returning.",1,11,8,6
+Spice Garden,Indian,"Superb dining experience, will bring my family next time. Prices are very reasonable.",5,18,14,15
+Spice Garden,Indian,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",4,24,19,26
+Spice Garden,Indian,Nothing special but would probably return if nearby. Service was acceptable.,3,15,6,12
+Spice Garden,Indian,"Wonderful staff, quick service and incredibly tasty dishes. Perfect for special occasions.",5,4,2,22
+Spice Garden,Indian,"Hidden gem in the city, every dish was a masterpiece. Perfect for special occasions.",4,46,11,8
+Spice Garden,Indian,Great value for money and the flavors were authentic. The chef deserves a raise!,5,37,6,13
+Spice Garden,Indian,"Wonderful staff, quick service and incredibly tasty dishes. The chef deserves a raise!",5,49,1,4
+Spice Garden,Indian,"The food was divine, fresh ingredients and generous portions. Service was top notch.",4,7,15,12
+Spice Garden,Indian,Outstanding service and the pasta was perfectly cooked. The chef deserves a raise!,4,6,12,3
+Spice Garden,Indian,Great value for money and the flavors were authentic. Service was top notch.,4,43,6,26
+Spice Garden,Indian,"It was alright, not the best but certainly not the worst. Service was acceptable.",3,2,12,12
+Spice Garden,Indian,Loved the ambiance and the chef really knows their craft. Perfect for special occasions.,4,19,7,28
+Spice Garden,Indian,Exceptional quality and the dessert was absolutely heavenly. The chef deserves a raise!,5,2,12,27
+Spice Garden,Indian,"Superb dining experience, will bring my family next time. Prices are very reasonable.",5,48,0,5
+Spice Garden,Indian,"Wonderful staff, quick service and incredibly tasty dishes. Prices are very reasonable.",4,44,12,28
+Spice Garden,Indian,"The food was divine, fresh ingredients and generous portions.",4,10,4,3
+Spice Garden,Indian,Outstanding service and the pasta was perfectly cooked. The chef deserves a raise!,4,17,14,8
+Spice Garden,Indian,Decent food but nothing that blew me away really. Might try again someday.,3,2,15,22
+Spice Garden,Indian,Appalling hygiene standards and tasteless food throughout. Asked for a refund.,1,31,15,7
+Spice Garden,Indian,"Perfect date night spot, romantic ambiance and delicious food. Prices are very reasonable.",4,7,3,25
+Spice Garden,Indian,Great value for money and the flavors were authentic. Perfect for special occasions.,4,27,4,8
+Spice Garden,Indian,"Met my expectations, no more and no less honestly. Service was acceptable.",3,16,8,0
+Spice Garden,Indian,"Five stars all the way, food was piping hot and delicious! Prices are very reasonable.",4,47,12,13
+Burger Republic,American,"Incredible flavors, friendly staff and cozy atmosphere. Service was top notch.",5,4,14,24
+Burger Republic,American,"Perfect date night spot, romantic ambiance and delicious food. Perfect for special occasions.",4,44,4,22
+Burger Republic,American,"The food was divine, fresh ingredients and generous portions. The chef deserves a raise!",4,17,14,16
+Burger Republic,American,"Wonderful staff, quick service and incredibly tasty dishes. The chef deserves a raise!",4,21,16,12
+Burger Republic,American,"Horrible experience, the manager was unhelpful and rude. Will not be returning.",1,0,15,22
+Burger Republic,American,"Absolutely amazing food, best restaurant in the city!",5,30,4,5
+Burger Republic,American,Exceptional quality and the dessert was absolutely heavenly.,5,36,9,9
+Burger Republic,American,"Fantastic experience from start to finish, highly recommend! The chef deserves a raise!",4,45,0,18
+Burger Republic,American,"Pretty standard restaurant, food came out on time. Has potential to improve.",3,0,16,7
+Burger Republic,American,Great value for money and the flavors were authentic. Perfect for special occasions.,5,33,2,26
+Burger Republic,American,"Absolutely amazing food, best restaurant in the city! Prices are very reasonable.",4,4,16,15
+Burger Republic,American,Exceptional quality and the dessert was absolutely heavenly.,4,20,13,1
+Burger Republic,American,Exceptional quality and the dessert was absolutely heavenly. Prices are very reasonable.,5,33,5,17
+Burger Republic,American,Loved the ambiance and the chef really knows their craft. Service was top notch.,4,33,19,24
+Burger Republic,American,"Perfect date night spot, romantic ambiance and delicious food. Prices are very reasonable.",4,29,9,18
+Burger Republic,American,"Five stars all the way, food was piping hot and delicious! Prices are very reasonable.",5,9,16,9
+Burger Republic,American,Outstanding service and the pasta was perfectly cooked.,5,33,5,20
+Burger Republic,American,Loved the ambiance and the chef really knows their craft. Service was top notch.,4,42,15,10
+Burger Republic,American,"Horrible experience, the manager was unhelpful and rude. Will not be returning.",1,15,10,21
+Burger Republic,American,Outstanding service and the pasta was perfectly cooked. Prices are very reasonable.,5,24,2,2
+Burger Republic,American,"Incredible flavors, friendly staff and cozy atmosphere.",4,18,4,17
+Burger Republic,American,"Met my expectations, no more and no less honestly. Might try again someday.",3,5,0,4
+Burger Republic,American,"Wonderful staff, quick service and incredibly tasty dishes. Perfect for special occasions.",4,48,13,25
+Burger Republic,American,"Best meal I have had in years, exceeded all expectations! Perfect for special occasions.",5,46,14,23
+Burger Republic,American,"Superb dining experience, will bring my family next time.",5,16,3,0
+Burger Republic,American,Overpriced and the food was bland and disappointing. Reported to health department.,2,14,14,23
+Burger Republic,American,"Wonderful staff, quick service and incredibly tasty dishes. Prices are very reasonable.",4,22,13,23
+Burger Republic,American,"Wonderful staff, quick service and incredibly tasty dishes. Service was top notch.",5,6,2,14
+Burger Republic,American,"Hidden gem in the city, every dish was a masterpiece. Prices are very reasonable.",5,44,17,25
+Burger Republic,American,"Loved every bite, will definitely come back again soon! The chef deserves a raise!",4,36,9,6
+Burger Republic,American,Exceptional quality and the dessert was absolutely heavenly. Perfect for special occasions.,4,43,16,12
+Burger Republic,American,Outstanding service and the pasta was perfectly cooked. Perfect for special occasions.,4,2,8,12
+Burger Republic,American,Outstanding service and the pasta was perfectly cooked. Perfect for special occasions.,4,46,7,7
+Burger Republic,American,"Loved every bite, will definitely come back again soon! Perfect for special occasions.",4,40,4,5
+Burger Republic,American,"Incredible flavors, friendly staff and cozy atmosphere. Service was top notch.",5,44,5,4
+Burger Republic,American,"Fantastic experience from start to finish, highly recommend!",5,5,5,22
+Burger Republic,American,Loved the ambiance and the chef really knows their craft. Service was top notch.,4,29,8,22
+Burger Republic,American,"Complete waste of money, microwave quality at restaurant prices. Reported to health department.",1,35,5,1
+Burger Republic,American,"Hidden gem in the city, every dish was a masterpiece. Prices are very reasonable.",4,14,5,21
+Burger Republic,American,"Reasonable place, the pasta was decent but uninspiring. Has potential to improve.",3,1,14,10
+Burger Republic,American,"Loved every bite, will definitely come back again soon!",4,43,4,5
+Burger Republic,American,Outstanding service and the pasta was perfectly cooked. Service was top notch.,5,19,0,19
+Burger Republic,American,Decent food but nothing that blew me away really. Has potential to improve.,3,13,5,4
+Burger Republic,American,"Superb dining experience, will bring my family next time. Prices are very reasonable.",4,12,10,2
+Burger Republic,American,"Worst restaurant experience I have ever had, never returning.",1,9,4,22
+Burger Republic,American,"Incredible flavors, friendly staff and cozy atmosphere.",4,39,1,19
+Burger Republic,American,Nothing special but would probably return if nearby. Might try again someday.,3,16,8,10
+Burger Republic,American,"The food was divine, fresh ingredients and generous portions. Service was top notch.",4,29,16,4
+Burger Republic,American,Great value for money and the flavors were authentic. Perfect for special occasions.,5,13,10,8
+Burger Republic,American,"It was alright, not the best but certainly not the worst. Service was acceptable.",3,0,7,21
+Burger Republic,American,"Complete waste of money, microwave quality at restaurant prices. Will not be returning.",1,40,4,13
+Burger Republic,American,"Loved every bite, will definitely come back again soon!",5,36,4,18
+Tokyo Ramen House,Japanese,Loved the ambiance and the chef really knows their craft. Prices are very reasonable.,5,24,12,9
+Tokyo Ramen House,Japanese,"Perfect date night spot, romantic ambiance and delicious food. Service was top notch.",4,37,0,22
+Tokyo Ramen House,Japanese,"Absolutely amazing food, best restaurant in the city! The chef deserves a raise!",4,16,0,14
+Tokyo Ramen House,Japanese,Loved the ambiance and the chef really knows their craft.,4,39,7,18
+Tokyo Ramen House,Japanese,"The food was divine, fresh ingredients and generous portions. Service was top notch.",4,6,18,7
+Tokyo Ramen House,Japanese,Outstanding service and the pasta was perfectly cooked.,5,32,19,29
+Tokyo Ramen House,Japanese,Outstanding service and the pasta was perfectly cooked.,5,37,0,28
+Tokyo Ramen House,Japanese,"Food was okay, a bit pricey for what you get though. Might try again someday.",3,3,1,9
+Tokyo Ramen House,Japanese,"Wonderful staff, quick service and incredibly tasty dishes. The chef deserves a raise!",4,37,12,14
+Tokyo Ramen House,Japanese,"Perfect date night spot, romantic ambiance and delicious food. Prices are very reasonable.",5,14,7,4
+Tokyo Ramen House,Japanese,Outstanding service and the pasta was perfectly cooked. Prices are very reasonable.,4,44,1,26
+Tokyo Ramen House,Japanese,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",5,35,10,26
+Tokyo Ramen House,Japanese,"Hidden gem in the city, every dish was a masterpiece. Perfect for special occasions.",4,39,5,5
+Tokyo Ramen House,Japanese,"Superb dining experience, will bring my family next time. Perfect for special occasions.",4,45,10,11
+Tokyo Ramen House,Japanese,"Perfect date night spot, romantic ambiance and delicious food. Perfect for special occasions.",5,24,0,14
+Tokyo Ramen House,Japanese,"Hidden gem in the city, every dish was a masterpiece. Prices are very reasonable.",5,43,3,15
+Tokyo Ramen House,Japanese,"Perfect date night spot, romantic ambiance and delicious food.",5,7,9,16
+Tokyo Ramen House,Japanese,"Wonderful staff, quick service and incredibly tasty dishes. The chef deserves a raise!",4,28,13,7
+Tokyo Ramen House,Japanese,"Hidden gem in the city, every dish was a masterpiece. The chef deserves a raise!",5,45,4,20
+Tokyo Ramen House,Japanese,Rude staff and the portion sizes were ridiculously small. Asked for a refund.,2,22,0,21
+Tokyo Ramen House,Japanese,"Perfect date night spot, romantic ambiance and delicious food.",4,46,8,20
+Tokyo Ramen House,Japanese,Outstanding service and the pasta was perfectly cooked. The chef deserves a raise!,4,25,8,2
+Tokyo Ramen House,Japanese,"Best meal I have had in years, exceeded all expectations! Perfect for special occasions.",4,10,5,1
+Tokyo Ramen House,Japanese,"Hidden gem in the city, every dish was a masterpiece. Perfect for special occasions.",4,26,16,10
+Tokyo Ramen House,Japanese,Never again! Dry overcooked meat and soggy vegetables. Will not be returning.,1,23,6,19
+Tokyo Ramen House,Japanese,"Perfect date night spot, romantic ambiance and delicious food. The chef deserves a raise!",4,48,10,21
+Tokyo Ramen House,Japanese,"Average experience, food was okay and service was fine. Might try again someday.",3,48,6,16
+Tokyo Ramen House,Japanese,"Absolutely amazing food, best restaurant in the city! Prices are very reasonable.",5,21,7,16
+Tokyo Ramen House,Japanese,"Food was okay, a bit pricey for what you get though. Service was acceptable.",3,18,16,12
+Tokyo Ramen House,Japanese,"Perfect date night spot, romantic ambiance and delicious food. Service was top notch.",4,17,0,13
+Tokyo Ramen House,Japanese,"Incredible flavors, friendly staff and cozy atmosphere. Perfect for special occasions.",5,27,16,17
+Tokyo Ramen House,Japanese,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",4,0,7,28
+Tokyo Ramen House,Japanese,Overpriced and the food was bland and disappointing.,1,9,9,18
+Tokyo Ramen House,Japanese,Great value for money and the flavors were authentic. The chef deserves a raise!,5,22,17,6
+Tokyo Ramen House,Japanese,"Absolutely amazing food, best restaurant in the city! The chef deserves a raise!",5,2,7,21
+Tokyo Ramen House,Japanese,"Fantastic experience from start to finish, highly recommend! Service was top notch.",4,32,14,7
+Tokyo Ramen House,Japanese,"Complete waste of money, microwave quality at restaurant prices. Asked for a refund.",2,31,13,10
+Tokyo Ramen House,Japanese,Outstanding service and the pasta was perfectly cooked.,5,20,13,22
+Tokyo Ramen House,Japanese,Exceptional quality and the dessert was absolutely heavenly. Perfect for special occasions.,5,6,0,22
+Tokyo Ramen House,Japanese,"Five stars all the way, food was piping hot and delicious! Service was top notch.",5,35,17,1
+Tokyo Ramen House,Japanese,"Fantastic experience from start to finish, highly recommend! Prices are very reasonable.",5,10,9,1
+Tokyo Ramen House,Japanese,Exceptional quality and the dessert was absolutely heavenly. Prices are very reasonable.,4,19,4,4
+Tokyo Ramen House,Japanese,Loved the ambiance and the chef really knows their craft. The chef deserves a raise!,4,33,11,2
+Tokyo Ramen House,Japanese,"The food was divine, fresh ingredients and generous portions. Prices are very reasonable.",5,23,16,9
+Tokyo Ramen House,Japanese,"Hidden gem in the city, every dish was a masterpiece. The chef deserves a raise!",4,49,18,16
+Tokyo Ramen House,Japanese,"Reasonable place, the pasta was decent but uninspiring. Has potential to improve.",3,44,6,8
+Tokyo Ramen House,Japanese,Never again! Dry overcooked meat and soggy vegetables. Asked for a refund.,2,3,12,1
+Tokyo Ramen House,Japanese,"Met my expectations, no more and no less honestly. Has potential to improve.",3,20,9,3
+Tokyo Ramen House,Japanese,"Incredible flavors, friendly staff and cozy atmosphere. The chef deserves a raise!",4,36,5,25
+Tokyo Ramen House,Japanese,"Fantastic experience from start to finish, highly recommend! Perfect for special occasions.",5,21,5,26
+Tokyo Ramen House,Japanese,Great value for money and the flavors were authentic.,4,6,9,12
+Tokyo Ramen House,Japanese,"Fantastic experience from start to finish, highly recommend! Prices are very reasonable.",5,45,1,27
+Tokyo Ramen House,Japanese,"Absolutely amazing food, best restaurant in the city! Service was top notch.",5,35,18,25
+Tokyo Ramen House,Japanese,Never again! Dry overcooked meat and soggy vegetables.,1,10,3,16
+Tokyo Ramen House,Japanese,"Perfect date night spot, romantic ambiance and delicious food. Service was top notch.",5,33,14,23
+Tokyo Ramen House,Japanese,"Fantastic experience from start to finish, highly recommend! The chef deserves a raise!",5,35,14,19
+Tokyo Ramen House,Japanese,Rude staff and the portion sizes were ridiculously small. Will not be returning.,2,16,12,10
+Tokyo Ramen House,Japanese,"Wonderful staff, quick service and incredibly tasty dishes. Perfect for special occasions.",4,8,8,7
+Tokyo Ramen House,Japanese,"Best meal I have had in years, exceeded all expectations!",5,42,7,9
+Tokyo Ramen House,Japanese,"Loved every bite, will definitely come back again soon! Service was top notch.",4,49,4,11
+Tokyo Ramen House,Japanese,Loved the ambiance and the chef really knows their craft. Perfect for special occasions.,5,11,18,4
+Tokyo Ramen House,Japanese,Never again! Dry overcooked meat and soggy vegetables. Reported to health department.,2,16,9,24
+Tokyo Ramen House,Japanese,"Superb dining experience, will bring my family next time. Prices are very reasonable.",4,15,18,7
+Tokyo Ramen House,Japanese,"Absolutely amazing food, best restaurant in the city!",5,15,5,7
+Tokyo Ramen House,Japanese,"Neither impressed nor disappointed, just an average meal.",3,14,8,12
+Tokyo Ramen House,Japanese,"Wonderful staff, quick service and incredibly tasty dishes. The chef deserves a raise!",5,22,6,13
+Tokyo Ramen House,Japanese,"Absolutely disgusting, sent food back twice and left hungry. Reported to health department.",2,47,7,17
+Tokyo Ramen House,Japanese,"Five stars all the way, food was piping hot and delicious! Perfect for special occasions.",4,30,19,6
+Tokyo Ramen House,Japanese,"Hidden gem in the city, every dish was a masterpiece. Perfect for special occasions.",4,38,16,13
+Tokyo Ramen House,Japanese,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",4,44,1,2
+Tokyo Ramen House,Japanese,"Perfect date night spot, romantic ambiance and delicious food. Perfect for special occasions.",5,22,11,6
+Tokyo Ramen House,Japanese,"Absolutely amazing food, best restaurant in the city! Prices are very reasonable.",4,28,12,17
+Tokyo Ramen House,Japanese,"Five stars all the way, food was piping hot and delicious! Perfect for special occasions.",4,43,1,22
+Tokyo Ramen House,Japanese,"Incredible flavors, friendly staff and cozy atmosphere. Service was top notch.",4,12,12,17
+Tokyo Ramen House,Japanese,"Loved every bite, will definitely come back again soon! Service was top notch.",5,38,13,19
+Tokyo Ramen House,Japanese,"Terrible service, waited over an hour for cold food! Reported to health department.",1,43,15,23
+La Bella Napoli,Italian,"Wonderful staff, quick service and incredibly tasty dishes. The chef deserves a raise!",5,38,19,4
+La Bella Napoli,Italian,"Absolutely amazing food, best restaurant in the city! Service was top notch.",5,44,13,23
+La Bella Napoli,Italian,"Pretty standard restaurant, food came out on time. Has potential to improve.",3,36,15,0
+La Bella Napoli,Italian,"Superb dining experience, will bring my family next time. The chef deserves a raise!",5,14,16,24
+La Bella Napoli,Italian,Great value for money and the flavors were authentic. Service was top notch.,5,36,4,10
+La Bella Napoli,Italian,Exceptional quality and the dessert was absolutely heavenly. Service was top notch.,4,12,1,24
+La Bella Napoli,Italian,Outstanding service and the pasta was perfectly cooked. Service was top notch.,5,7,19,28
+La Bella Napoli,Italian,"Fantastic experience from start to finish, highly recommend! Service was top notch.",5,44,13,9
+La Bella Napoli,Italian,"Horrible experience, the manager was unhelpful and rude. Asked for a refund.",1,40,16,25
+La Bella Napoli,Italian,"The food was divine, fresh ingredients and generous portions.",5,4,14,22
+La Bella Napoli,Italian,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",5,48,9,2
+La Bella Napoli,Italian,Loved the ambiance and the chef really knows their craft. The chef deserves a raise!,5,23,2,2
+La Bella Napoli,Italian,"Reasonable place, the pasta was decent but uninspiring. Might try again someday.",3,46,8,3
+La Bella Napoli,Italian,"Incredible flavors, friendly staff and cozy atmosphere. Service was top notch.",4,40,2,26
+La Bella Napoli,Italian,"Horrible experience, the manager was unhelpful and rude. Will not be returning.",2,24,1,11
+La Bella Napoli,Italian,"Complete waste of money, microwave quality at restaurant prices. Reported to health department.",1,4,10,26
+La Bella Napoli,Italian,"Met my expectations, no more and no less honestly.",3,4,15,25
+La Bella Napoli,Italian,"Fantastic experience from start to finish, highly recommend! Prices are very reasonable.",4,47,12,27
+La Bella Napoli,Italian,"Terrible service, waited over an hour for cold food! Asked for a refund.",1,39,12,29
+La Bella Napoli,Italian,"Wonderful staff, quick service and incredibly tasty dishes. Service was top notch.",4,39,1,7
+La Bella Napoli,Italian,"Five stars all the way, food was piping hot and delicious! The chef deserves a raise!",4,5,18,15
+La Bella Napoli,Italian,"Absolutely amazing food, best restaurant in the city! Service was top notch.",5,47,8,12
+La Bella Napoli,Italian,"Best meal I have had in years, exceeded all expectations!",5,41,3,26
+La Bella Napoli,Italian,Exceptional quality and the dessert was absolutely heavenly.,5,42,12,25
+La Bella Napoli,Italian,"Superb dining experience, will bring my family next time. Perfect for special occasions.",4,9,10,20
+La Bella Napoli,Italian,"Superb dining experience, will bring my family next time. Perfect for special occasions.",5,35,1,13
+La Bella Napoli,Italian,Great value for money and the flavors were authentic. Perfect for special occasions.,5,31,12,13
+La Bella Napoli,Italian,"Best meal I have had in years, exceeded all expectations! The chef deserves a raise!",4,39,1,27
+La Bella Napoli,Italian,Overpriced and the food was bland and disappointing.,1,5,18,29
+La Bella Napoli,Italian,"Horrible experience, the manager was unhelpful and rude.",1,33,14,29
+La Bella Napoli,Italian,"The food was divine, fresh ingredients and generous portions. Prices are very reasonable.",5,19,3,17
+La Bella Napoli,Italian,"Absolutely amazing food, best restaurant in the city! Prices are very reasonable.",5,21,16,9
+La Bella Napoli,Italian,"The food was divine, fresh ingredients and generous portions. Perfect for special occasions.",4,17,17,13
+La Bella Napoli,Italian,"Five stars all the way, food was piping hot and delicious! Prices are very reasonable.",5,35,2,19
+La Bella Napoli,Italian,Exceptional quality and the dessert was absolutely heavenly.,5,10,0,5
+La Bella Napoli,Italian,"Loved every bite, will definitely come back again soon! Service was top notch.",4,22,1,13
+La Bella Napoli,Italian,Outstanding service and the pasta was perfectly cooked. The chef deserves a raise!,4,34,12,8
+La Bella Napoli,Italian,"Absolutely disgusting, sent food back twice and left hungry. Reported to health department.",2,28,10,19
+La Bella Napoli,Italian,"Superb dining experience, will bring my family next time. Prices are very reasonable.",5,21,10,26
+La Bella Napoli,Italian,Loved the ambiance and the chef really knows their craft. Prices are very reasonable.,5,27,14,15
+La Bella Napoli,Italian,Outstanding service and the pasta was perfectly cooked. Service was top notch.,5,4,2,26
+La Bella Napoli,Italian,Great value for money and the flavors were authentic. Perfect for special occasions.,4,34,16,24
+La Bella Napoli,Italian,"Incredible flavors, friendly staff and cozy atmosphere. Prices are very reasonable.",5,15,7,27
+La Bella Napoli,Italian,Decent food but nothing that blew me away really. Might try again someday.,3,7,14,26
+La Bella Napoli,Italian,Outstanding service and the pasta was perfectly cooked. Service was top notch.,5,28,11,20
+La Bella Napoli,Italian,"Wonderful staff, quick service and incredibly tasty dishes. Service was top notch.",5,19,13,14
+La Bella Napoli,Italian,Loved the ambiance and the chef really knows their craft. The chef deserves a raise!,4,43,19,3
+La Bella Napoli,Italian,"Best meal I have had in years, exceeded all expectations! Prices are very reasonable.",4,21,1,23
+La Bella Napoli,Italian,"Five stars all the way, food was piping hot and delicious! The chef deserves a raise!",4,7,17,29
+La Bella Napoli,Italian,Loved the ambiance and the chef really knows their craft. Service was top notch.,4,44,0,27
+La Bella Napoli,Italian,"Perfect date night spot, romantic ambiance and delicious food. Service was top notch.",5,21,18,23
+La Bella Napoli,Italian,Appalling hygiene standards and tasteless food throughout. Reported to health department.,2,45,14,15
+La Bella Napoli,Italian,Great value for money and the flavors were authentic. Prices are very reasonable.,4,32,9,7
+La Bella Napoli,Italian,Appalling hygiene standards and tasteless food throughout. Reported to health department.,1,1,0,0
+La Bella Napoli,Italian,Loved the ambiance and the chef really knows their craft. The chef deserves a raise!,5,12,19,25
+La Bella Napoli,Italian,"Incredible flavors, friendly staff and cozy atmosphere. Perfect for special occasions.",4,45,17,14
+La Bella Napoli,Italian,"Food was okay, a bit pricey for what you get though.",3,48,7,10
+La Bella Napoli,Italian,Never again! Dry overcooked meat and soggy vegetables. Asked for a refund.,2,8,5,8
+La Bella Napoli,Italian,"Horrible experience, the manager was unhelpful and rude. Asked for a refund.",1,11,7,7
+La Bella Napoli,Italian,Loved the ambiance and the chef really knows their craft. Prices are very reasonable.,5,46,6,10
+La Bella Napoli,Italian,Outstanding service and the pasta was perfectly cooked. Perfect for special occasions.,5,21,2,8
+Dragon Palace,Chinese,"Hidden gem in the city, every dish was a masterpiece. Perfect for special occasions.",5,11,11,12
+Dragon Palace,Chinese,"Loved every bite, will definitely come back again soon! Perfect for special occasions.",4,18,13,3
+Dragon Palace,Chinese,"Five stars all the way, food was piping hot and delicious!",5,31,18,11
+Dragon Palace,Chinese,"Incredible flavors, friendly staff and cozy atmosphere. Service was top notch.",4,21,4,23
+Dragon Palace,Chinese,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",5,9,18,2
+Dragon Palace,Chinese,"Met my expectations, no more and no less honestly. Service was acceptable.",3,14,0,6
+Dragon Palace,Chinese,Loved the ambiance and the chef really knows their craft.,4,30,19,4
+Dragon Palace,Chinese,Great value for money and the flavors were authentic. Prices are very reasonable.,4,23,17,16
+Dragon Palace,Chinese,"Best meal I have had in years, exceeded all expectations! Prices are very reasonable.",4,33,3,1
+Dragon Palace,Chinese,Outstanding service and the pasta was perfectly cooked. Perfect for special occasions.,4,11,2,12
+Dragon Palace,Chinese,"Fantastic experience from start to finish, highly recommend! The chef deserves a raise!",4,34,7,3
+Dragon Palace,Chinese,Exceptional quality and the dessert was absolutely heavenly. Perfect for special occasions.,5,43,13,13
+Dragon Palace,Chinese,"Fantastic experience from start to finish, highly recommend!",4,37,12,8
+Dragon Palace,Chinese,"Reasonable place, the pasta was decent but uninspiring. Service was acceptable.",3,24,19,1
+Dragon Palace,Chinese,"Terrible service, waited over an hour for cold food! Will not be returning.",2,24,1,2
+Dragon Palace,Chinese,"Superb dining experience, will bring my family next time. The chef deserves a raise!",5,39,11,23
+Dragon Palace,Chinese,Exceptional quality and the dessert was absolutely heavenly. Service was top notch.,4,9,2,21
+Dragon Palace,Chinese,"Food took forever and arrived cold, totally unacceptable. Reported to health department.",2,9,11,29
+Dragon Palace,Chinese,Found a hair in my food and the waiter was dismissive.,2,7,10,11
+Dragon Palace,Chinese,"The food was divine, fresh ingredients and generous portions. Prices are very reasonable.",5,27,10,4
+Dragon Palace,Chinese,Great value for money and the flavors were authentic.,4,48,16,23
+Dragon Palace,Chinese,Great value for money and the flavors were authentic. Prices are very reasonable.,5,19,17,13
+Dragon Palace,Chinese,Found a hair in my food and the waiter was dismissive.,1,25,0,22
+Dragon Palace,Chinese,Nothing special but would probably return if nearby. Might try again someday.,3,4,0,16
+Dragon Palace,Chinese,Great value for money and the flavors were authentic. Perfect for special occasions.,4,19,17,23
+Dragon Palace,Chinese,Loved the ambiance and the chef really knows their craft. Perfect for special occasions.,5,24,17,28
+Dragon Palace,Chinese,"Superb dining experience, will bring my family next time. Service was top notch.",5,49,11,5
+Dragon Palace,Chinese,Rude staff and the portion sizes were ridiculously small.,2,49,9,27
+Dragon Palace,Chinese,"Incredible flavors, friendly staff and cozy atmosphere.",5,0,7,28
+Dragon Palace,Chinese,"Fantastic experience from start to finish, highly recommend! Perfect for special occasions.",4,0,10,9
+Dragon Palace,Chinese,"Worst restaurant experience I have ever had, never returning. Reported to health department.",1,25,7,14
+Dragon Palace,Chinese,Great value for money and the flavors were authentic. Service was top notch.,4,7,13,3
+Dragon Palace,Chinese,"Loved every bite, will definitely come back again soon!",5,47,4,8
+Dragon Palace,Chinese,Appalling hygiene standards and tasteless food throughout. Asked for a refund.,2,49,5,8
+Dragon Palace,Chinese,"Best meal I have had in years, exceeded all expectations!",5,8,12,8
+Dragon Palace,Chinese,"Worst restaurant experience I have ever had, never returning. Reported to health department.",2,37,13,3
+Dragon Palace,Chinese,"The food was divine, fresh ingredients and generous portions. Perfect for special occasions.",5,17,12,8
+Dragon Palace,Chinese,"Five stars all the way, food was piping hot and delicious! Service was top notch.",4,0,6,24
+Dragon Palace,Chinese,"Absolutely amazing food, best restaurant in the city! Prices are very reasonable.",4,6,14,20
+Dragon Palace,Chinese,"Five stars all the way, food was piping hot and delicious! The chef deserves a raise!",4,32,16,16
+Dragon Palace,Chinese,"The food was divine, fresh ingredients and generous portions. Perfect for special occasions.",4,10,2,7
+Dragon Palace,Chinese,"Wonderful staff, quick service and incredibly tasty dishes. Perfect for special occasions.",5,45,8,2
+Dragon Palace,Chinese,"Perfect date night spot, romantic ambiance and delicious food. Perfect for special occasions.",4,5,11,4
+Dragon Palace,Chinese,"Fantastic experience from start to finish, highly recommend! Prices are very reasonable.",4,35,14,10
+Dragon Palace,Chinese,"The food was divine, fresh ingredients and generous portions. Perfect for special occasions.",5,43,10,12
+Dragon Palace,Chinese,"Hidden gem in the city, every dish was a masterpiece.",5,14,3,10
+Dragon Palace,Chinese,Outstanding service and the pasta was perfectly cooked.,4,12,18,1
+Dragon Palace,Chinese,Rude staff and the portion sizes were ridiculously small.,2,45,14,27
+Dragon Palace,Chinese,"Wonderful staff, quick service and incredibly tasty dishes. Prices are very reasonable.",4,29,17,1
+Dragon Palace,Chinese,"Pretty standard restaurant, food came out on time. Has potential to improve.",3,24,10,6
+Dragon Palace,Chinese,"Wonderful staff, quick service and incredibly tasty dishes.",5,30,6,23
+Dragon Palace,Chinese,"Five stars all the way, food was piping hot and delicious! Perfect for special occasions.",5,35,19,3
+Dragon Palace,Chinese,Stale ingredients and the whole place smelled unpleasant. Reported to health department.,2,43,12,9
+Dragon Palace,Chinese,"Absolutely disgusting, sent food back twice and left hungry. Asked for a refund.",2,20,8,25
+Dragon Palace,Chinese,"Standard fare, nothing memorable about the experience.",3,41,7,23
+Dragon Palace,Chinese,"Wonderful staff, quick service and incredibly tasty dishes. Service was top notch.",4,36,3,17
+Dragon Palace,Chinese,Outstanding service and the pasta was perfectly cooked. Prices are very reasonable.,5,38,9,24
+Dragon Palace,Chinese,Rude staff and the portion sizes were ridiculously small. Asked for a refund.,2,32,17,4
+Dragon Palace,Chinese,Overpriced and the food was bland and disappointing.,2,33,0,22
+Dragon Palace,Chinese,"The food was divine, fresh ingredients and generous portions.",4,14,2,27
+Dragon Palace,Chinese,"Standard fare, nothing memorable about the experience. Might try again someday.",3,13,12,28
+Dragon Palace,Chinese,"Horrible experience, the manager was unhelpful and rude. Asked for a refund.",1,34,6,20
+Dragon Palace,Chinese,"Wonderful staff, quick service and incredibly tasty dishes.",5,38,8,16
+Dragon Palace,Chinese,"Complete waste of money, microwave quality at restaurant prices.",1,45,18,3
+Dragon Palace,Chinese,"Wonderful staff, quick service and incredibly tasty dishes.",5,45,3,7
+Dragon Palace,Chinese,Outstanding service and the pasta was perfectly cooked. Service was top notch.,5,8,7,0
+Dragon Palace,Chinese,"Neither impressed nor disappointed, just an average meal. Service was acceptable.",3,3,12,16
+Dragon Palace,Chinese,Great value for money and the flavors were authentic.,5,43,7,5
+Dragon Palace,Chinese,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",4,2,5,1
+Dragon Palace,Chinese,"Incredible flavors, friendly staff and cozy atmosphere. The chef deserves a raise!",5,34,1,22
+Dragon Palace,Chinese,"Perfect date night spot, romantic ambiance and delicious food. Prices are very reasonable.",4,35,4,12
+Dragon Palace,Chinese,"Superb dining experience, will bring my family next time. The chef deserves a raise!",5,15,9,29
+Dragon Palace,Chinese,Exceptional quality and the dessert was absolutely heavenly. Prices are very reasonable.,4,16,15,11
+Dragon Palace,Chinese,"Loved every bite, will definitely come back again soon!",5,22,18,7
+Dragon Palace,Chinese,Rude staff and the portion sizes were ridiculously small.,1,43,0,24
+Dragon Palace,Chinese,Outstanding service and the pasta was perfectly cooked. Perfect for special occasions.,5,7,6,0
+Dragon Palace,Chinese,Great value for money and the flavors were authentic. Prices are very reasonable.,5,33,13,3
+Taco Fiesta,Mexican,"Average experience, food was okay and service was fine. Might try again someday.",3,20,1,26
+Taco Fiesta,Mexican,Decent food but nothing that blew me away really. Service was acceptable.,3,2,19,29
+Taco Fiesta,Mexican,Outstanding service and the pasta was perfectly cooked. Perfect for special occasions.,4,5,2,21
+Taco Fiesta,Mexican,"The food was divine, fresh ingredients and generous portions. Prices are very reasonable.",4,36,19,9
+Taco Fiesta,Mexican,"Absolutely amazing food, best restaurant in the city! Perfect for special occasions.",4,37,17,12
+Taco Fiesta,Mexican,"Perfect date night spot, romantic ambiance and delicious food. Perfect for special occasions.",4,29,13,5
+Taco Fiesta,Mexican,"Absolutely disgusting, sent food back twice and left hungry.",2,13,8,14
+Taco Fiesta,Mexican,"Incredible flavors, friendly staff and cozy atmosphere. Service was top notch.",4,1,2,17
+Taco Fiesta,Mexican,"Incredible flavors, friendly staff and cozy atmosphere. Perfect for special occasions.",5,24,1,24
+Taco Fiesta,Mexican,"Absolutely amazing food, best restaurant in the city! Prices are very reasonable.",4,30,13,0
+Taco Fiesta,Mexican,"The food was divine, fresh ingredients and generous portions.",5,2,2,8
+Taco Fiesta,Mexican,"Five stars all the way, food was piping hot and delicious!",5,33,7,20
+Taco Fiesta,Mexican,"Horrible experience, the manager was unhelpful and rude. Will not be returning.",1,3,12,27
+Taco Fiesta,Mexican,Great value for money and the flavors were authentic.,5,30,13,19
+Taco Fiesta,Mexican,Great value for money and the flavors were authentic.,4,42,1,27
+Taco Fiesta,Mexican,"Superb dining experience, will bring my family next time. Service was top notch.",4,4,18,1
+Taco Fiesta,Mexican,"Incredible flavors, friendly staff and cozy atmosphere. Service was top notch.",4,49,14,8
+Taco Fiesta,Mexican,"Best meal I have had in years, exceeded all expectations! Service was top notch.",4,20,8,27
+Taco Fiesta,Mexican,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",4,32,3,3
+Taco Fiesta,Mexican,"Absolutely amazing food, best restaurant in the city!",5,38,19,28
+Taco Fiesta,Mexican,Great value for money and the flavors were authentic. Perfect for special occasions.,5,36,19,29
+Taco Fiesta,Mexican,"Loved every bite, will definitely come back again soon! Service was top notch.",5,27,13,6
+Taco Fiesta,Mexican,"The food was divine, fresh ingredients and generous portions.",5,1,5,14
+Taco Fiesta,Mexican,Exceptional quality and the dessert was absolutely heavenly. Perfect for special occasions.,4,38,4,0
+Taco Fiesta,Mexican,"Wonderful staff, quick service and incredibly tasty dishes. Perfect for special occasions.",4,44,17,4
+Taco Fiesta,Mexican,Outstanding service and the pasta was perfectly cooked. The chef deserves a raise!,5,34,16,27
+Taco Fiesta,Mexican,"Fantastic experience from start to finish, highly recommend! Prices are very reasonable.",5,25,3,1
+Taco Fiesta,Mexican,Great value for money and the flavors were authentic. Perfect for special occasions.,4,39,2,8
+Taco Fiesta,Mexican,"Five stars all the way, food was piping hot and delicious! Perfect for special occasions.",5,20,9,12
+Taco Fiesta,Mexican,"Terrible service, waited over an hour for cold food!",2,8,8,0
+Taco Fiesta,Mexican,"Five stars all the way, food was piping hot and delicious! The chef deserves a raise!",5,9,17,25
+Taco Fiesta,Mexican,"Reasonable place, the pasta was decent but uninspiring. Might try again someday.",3,27,10,22
+Taco Fiesta,Mexican,"Hidden gem in the city, every dish was a masterpiece. The chef deserves a raise!",5,14,16,27
+Taco Fiesta,Mexican,"Five stars all the way, food was piping hot and delicious! Service was top notch.",4,4,11,0
+Taco Fiesta,Mexican,"Perfect date night spot, romantic ambiance and delicious food.",4,7,10,0
+Taco Fiesta,Mexican,"Complete waste of money, microwave quality at restaurant prices. Will not be returning.",1,23,16,4
+Taco Fiesta,Mexican,"Perfect date night spot, romantic ambiance and delicious food. Perfect for special occasions.",4,30,13,3
+Taco Fiesta,Mexican,"Superb dining experience, will bring my family next time. Service was top notch.",4,6,18,27
+Taco Fiesta,Mexican,"Wonderful staff, quick service and incredibly tasty dishes.",4,4,7,9
+Taco Fiesta,Mexican,Appalling hygiene standards and tasteless food throughout. Reported to health department.,1,30,7,7
+Taco Fiesta,Mexican,"Incredible flavors, friendly staff and cozy atmosphere. Perfect for special occasions.",5,2,16,3
+Taco Fiesta,Mexican,Loved the ambiance and the chef really knows their craft. The chef deserves a raise!,5,40,17,9
+Taco Fiesta,Mexican,Great value for money and the flavors were authentic. Service was top notch.,5,39,1,21
+Taco Fiesta,Mexican,"Superb dining experience, will bring my family next time. Prices are very reasonable.",4,33,10,9
+Taco Fiesta,Mexican,"Perfect date night spot, romantic ambiance and delicious food. Perfect for special occasions.",4,8,7,26
+Taco Fiesta,Mexican,"Wonderful staff, quick service and incredibly tasty dishes. The chef deserves a raise!",4,49,19,29
+Taco Fiesta,Mexican,Great value for money and the flavors were authentic. Service was top notch.,5,45,16,23
+Taco Fiesta,Mexican,"Wonderful staff, quick service and incredibly tasty dishes. The chef deserves a raise!",5,11,8,14
+Taco Fiesta,Mexican,Nothing special but would probably return if nearby. Has potential to improve.,3,7,13,7
+Taco Fiesta,Mexican,Exceptional quality and the dessert was absolutely heavenly. Prices are very reasonable.,4,31,10,21
+The Steakhouse,American,"The food was divine, fresh ingredients and generous portions. Prices are very reasonable.",5,28,12,17
+The Steakhouse,American,Found a hair in my food and the waiter was dismissive. Will not be returning.,2,26,17,14
+The Steakhouse,American,"Perfect date night spot, romantic ambiance and delicious food. Prices are very reasonable.",4,12,10,4
+The Steakhouse,American,"Perfect date night spot, romantic ambiance and delicious food. Service was top notch.",4,18,6,11
+The Steakhouse,American,"Fantastic experience from start to finish, highly recommend! Perfect for special occasions.",5,15,7,0
+The Steakhouse,American,"Loved every bite, will definitely come back again soon! The chef deserves a raise!",5,3,7,2
+The Steakhouse,American,"Wonderful staff, quick service and incredibly tasty dishes. Perfect for special occasions.",4,42,9,20
+The Steakhouse,American,Exceptional quality and the dessert was absolutely heavenly. Service was top notch.,5,26,1,8
+The Steakhouse,American,"Best meal I have had in years, exceeded all expectations! Prices are very reasonable.",4,35,9,25
+The Steakhouse,American,Great value for money and the flavors were authentic. The chef deserves a raise!,5,13,13,24
+The Steakhouse,American,"Best meal I have had in years, exceeded all expectations! Prices are very reasonable.",5,10,15,18
+The Steakhouse,American,"The food was divine, fresh ingredients and generous portions. Service was top notch.",5,36,3,14
+The Steakhouse,American,Outstanding service and the pasta was perfectly cooked. Perfect for special occasions.,4,23,2,25
+The Steakhouse,American,"Fantastic experience from start to finish, highly recommend!",4,9,5,13
+The Steakhouse,American,"Best meal I have had in years, exceeded all expectations!",4,19,16,22
+The Steakhouse,American,"Five stars all the way, food was piping hot and delicious! Service was top notch.",5,23,4,15
+The Steakhouse,American,"Pretty standard restaurant, food came out on time.",3,23,1,29
+The Steakhouse,American,"Superb dining experience, will bring my family next time. Prices are very reasonable.",5,18,16,13
+The Steakhouse,American,"Complete waste of money, microwave quality at restaurant prices. Reported to health department.",2,11,5,20
+The Steakhouse,American,"Loved every bite, will definitely come back again soon!",5,35,16,22
+The Steakhouse,American,"Pretty standard restaurant, food came out on time. Might try again someday.",3,27,14,10
+The Steakhouse,American,"The food was divine, fresh ingredients and generous portions.",5,32,16,5
+The Steakhouse,American,"Superb dining experience, will bring my family next time. Service was top notch.",5,14,5,14
+The Steakhouse,American,"Hidden gem in the city, every dish was a masterpiece. The chef deserves a raise!",5,25,15,4
+The Steakhouse,American,"Standard fare, nothing memorable about the experience. Has potential to improve.",3,2,12,10
+The Steakhouse,American,Stale ingredients and the whole place smelled unpleasant. Reported to health department.,1,5,16,26
+The Steakhouse,American,Nothing special but would probably return if nearby. Service was acceptable.,3,41,2,13
+The Steakhouse,American,Nothing special but would probably return if nearby. Might try again someday.,3,36,19,16
+The Steakhouse,American,"Fantastic experience from start to finish, highly recommend! Prices are very reasonable.",4,5,3,29
+The Steakhouse,American,"Incredible flavors, friendly staff and cozy atmosphere. Service was top notch.",5,0,3,5
+The Steakhouse,American,Appalling hygiene standards and tasteless food throughout.,1,30,19,23
+The Steakhouse,American,"Fantastic experience from start to finish, highly recommend! Prices are very reasonable.",4,41,6,2
+The Steakhouse,American,"Reasonable place, the pasta was decent but uninspiring. Has potential to improve.",3,15,15,21
+The Steakhouse,American,"Best meal I have had in years, exceeded all expectations!",4,5,11,8
+The Steakhouse,American,"Perfect date night spot, romantic ambiance and delicious food. Service was top notch.",4,19,17,25
+The Steakhouse,American,"Fantastic experience from start to finish, highly recommend! Prices are very reasonable.",4,49,0,26
+The Steakhouse,American,"Superb dining experience, will bring my family next time. Perfect for special occasions.",4,31,10,19
+The Steakhouse,American,"Absolutely disgusting, sent food back twice and left hungry. Reported to health department.",2,41,11,23
+The Steakhouse,American,"Neither impressed nor disappointed, just an average meal. Might try again someday.",3,20,17,4
+The Steakhouse,American,"Wonderful staff, quick service and incredibly tasty dishes.",5,23,16,18
+The Steakhouse,American,"Fantastic experience from start to finish, highly recommend! Prices are very reasonable.",4,40,0,17
+The Steakhouse,American,"Superb dining experience, will bring my family next time. Perfect for special occasions.",5,6,0,16
+The Steakhouse,American,"Five stars all the way, food was piping hot and delicious! Perfect for special occasions.",5,27,10,8
+The Steakhouse,American,"Absolutely amazing food, best restaurant in the city! The chef deserves a raise!",5,33,5,13
+The Steakhouse,American,"Absolutely amazing food, best restaurant in the city! Perfect for special occasions.",4,20,4,1
+The Steakhouse,American,"Best meal I have had in years, exceeded all expectations! Perfect for special occasions.",5,9,1,15
+The Steakhouse,American,"Five stars all the way, food was piping hot and delicious! Prices are very reasonable.",4,23,14,7
+The Steakhouse,American,Never again! Dry overcooked meat and soggy vegetables. Asked for a refund.,2,34,18,16
+The Steakhouse,American,"Food was okay, a bit pricey for what you get though. Might try again someday.",3,19,3,13
+The Steakhouse,American,"Superb dining experience, will bring my family next time.",5,14,19,27
+The Steakhouse,American,"Neither impressed nor disappointed, just an average meal.",3,27,16,1
+The Steakhouse,American,Overpriced and the food was bland and disappointing.,1,43,0,9
+The Steakhouse,American,"The food was divine, fresh ingredients and generous portions. Prices are very reasonable.",4,22,17,10
+The Steakhouse,American,"Loved every bite, will definitely come back again soon! Service was top notch.",5,11,9,7
+The Steakhouse,American,"Neither impressed nor disappointed, just an average meal.",3,36,7,22
+The Steakhouse,American,"Superb dining experience, will bring my family next time. Perfect for special occasions.",5,41,19,5
+The Steakhouse,American,Exceptional quality and the dessert was absolutely heavenly. Service was top notch.,5,44,2,26
+The Steakhouse,American,"Reasonable place, the pasta was decent but uninspiring. Has potential to improve.",3,32,0,22
+The Steakhouse,American,Nothing special but would probably return if nearby.,3,47,10,4
+The Steakhouse,American,"The food was divine, fresh ingredients and generous portions. Service was top notch.",4,31,8,11
+The Steakhouse,American,Exceptional quality and the dessert was absolutely heavenly. The chef deserves a raise!,5,44,12,1
+The Steakhouse,American,Stale ingredients and the whole place smelled unpleasant. Asked for a refund.,2,30,4,24
+The Steakhouse,American,Rude staff and the portion sizes were ridiculously small. Reported to health department.,2,19,1,25
+The Steakhouse,American,Found a hair in my food and the waiter was dismissive. Will not be returning.,1,27,8,19
+The Steakhouse,American,"The food was divine, fresh ingredients and generous portions. Service was top notch.",5,43,10,1
+The Steakhouse,American,Great value for money and the flavors were authentic. The chef deserves a raise!,5,20,1,21
+The Steakhouse,American,Great value for money and the flavors were authentic. Perfect for special occasions.,5,47,0,20
+The Steakhouse,American,"Incredible flavors, friendly staff and cozy atmosphere. The chef deserves a raise!",4,46,17,25
+The Steakhouse,American,Exceptional quality and the dessert was absolutely heavenly. The chef deserves a raise!,5,4,11,10
+The Steakhouse,American,"Hidden gem in the city, every dish was a masterpiece. Service was top notch.",5,32,19,28
+The Steakhouse,American,"Incredible flavors, friendly staff and cozy atmosphere. Service was top notch.",5,39,14,6
+Sushi Paradise,Japanese,Great value for money and the flavors were authentic. The chef deserves a raise!,5,7,2,3
+Sushi Paradise,Japanese,"Superb dining experience, will bring my family next time.",5,34,13,19
+Sushi Paradise,Japanese,Great value for money and the flavors were authentic. The chef deserves a raise!,5,38,8,2
+Sushi Paradise,Japanese,"Worst restaurant experience I have ever had, never returning. Will not be returning.",1,32,5,26
+Sushi Paradise,Japanese,Never again! Dry overcooked meat and soggy vegetables. Will not be returning.,1,33,13,5
+Sushi Paradise,Japanese,Nothing special but would probably return if nearby.,3,34,18,29
+Sushi Paradise,Japanese,"Hidden gem in the city, every dish was a masterpiece. Prices are very reasonable.",5,48,7,23
+Sushi Paradise,Japanese,Stale ingredients and the whole place smelled unpleasant. Will not be returning.,1,21,15,24
+Sushi Paradise,Japanese,"It was alright, not the best but certainly not the worst. Service was acceptable.",3,41,18,8
+Sushi Paradise,Japanese,"Five stars all the way, food was piping hot and delicious! The chef deserves a raise!",5,18,14,19
+Sushi Paradise,Japanese,Stale ingredients and the whole place smelled unpleasant. Reported to health department.,2,35,7,16
+Sushi Paradise,Japanese,Decent food but nothing that blew me away really.,3,24,13,10
+Sushi Paradise,Japanese,"Horrible experience, the manager was unhelpful and rude. Will not be returning.",1,13,8,3
+Sushi Paradise,Japanese,Appalling hygiene standards and tasteless food throughout.,1,1,8,28
+Sushi Paradise,Japanese,"Best meal I have had in years, exceeded all expectations!",4,48,15,29
+Sushi Paradise,Japanese,"Hidden gem in the city, every dish was a masterpiece. Perfect for special occasions.",4,20,4,15
+Sushi Paradise,Japanese,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",5,32,8,28
+Sushi Paradise,Japanese,Overpriced and the food was bland and disappointing. Reported to health department.,1,33,0,7
+Sushi Paradise,Japanese,"Superb dining experience, will bring my family next time. Prices are very reasonable.",4,11,13,14
+Sushi Paradise,Japanese,Overpriced and the food was bland and disappointing. Asked for a refund.,2,28,7,20
+Sushi Paradise,Japanese,Outstanding service and the pasta was perfectly cooked. The chef deserves a raise!,5,28,18,3
+Sushi Paradise,Japanese,Great value for money and the flavors were authentic. Prices are very reasonable.,5,3,11,12
+Sushi Paradise,Japanese,Great value for money and the flavors were authentic. Perfect for special occasions.,5,23,1,26
+Sushi Paradise,Japanese,"Absolutely amazing food, best restaurant in the city! The chef deserves a raise!",5,17,16,28
+Sushi Paradise,Japanese,"Wonderful staff, quick service and incredibly tasty dishes. Service was top notch.",4,7,18,27
+Sushi Paradise,Japanese,"Best meal I have had in years, exceeded all expectations!",4,44,16,2
+Sushi Paradise,Japanese,"It was alright, not the best but certainly not the worst.",3,44,19,23
+Sushi Paradise,Japanese,"Five stars all the way, food was piping hot and delicious! The chef deserves a raise!",4,45,16,29
+Sushi Paradise,Japanese,Outstanding service and the pasta was perfectly cooked. Prices are very reasonable.,5,32,6,20
+Sushi Paradise,Japanese,Loved the ambiance and the chef really knows their craft. Perfect for special occasions.,4,42,8,8
+Sushi Paradise,Japanese,"Absolutely amazing food, best restaurant in the city! The chef deserves a raise!",5,16,18,26
+Sushi Paradise,Japanese,"Best meal I have had in years, exceeded all expectations!",4,10,13,18
+Sushi Paradise,Japanese,"Superb dining experience, will bring my family next time.",4,0,7,11
+Sushi Paradise,Japanese,"Perfect date night spot, romantic ambiance and delicious food.",5,44,11,28
+Sushi Paradise,Japanese,"Five stars all the way, food was piping hot and delicious! Perfect for special occasions.",4,38,4,7
+Sushi Paradise,Japanese,Loved the ambiance and the chef really knows their craft.,5,46,16,14
+Sushi Paradise,Japanese,"Incredible flavors, friendly staff and cozy atmosphere. Perfect for special occasions.",5,3,0,3
+Sushi Paradise,Japanese,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",4,39,19,16
+Sushi Paradise,Japanese,"Food took forever and arrived cold, totally unacceptable. Will not be returning.",1,14,8,6
+Sushi Paradise,Japanese,"Five stars all the way, food was piping hot and delicious! The chef deserves a raise!",4,9,1,18
+Sushi Paradise,Japanese,"Wonderful staff, quick service and incredibly tasty dishes. Perfect for special occasions.",4,8,6,27
+Sushi Paradise,Japanese,Stale ingredients and the whole place smelled unpleasant. Will not be returning.,2,1,5,2
+Sushi Paradise,Japanese,"Perfect date night spot, romantic ambiance and delicious food. Perfect for special occasions.",4,16,8,29
+Sushi Paradise,Japanese,"Hidden gem in the city, every dish was a masterpiece. The chef deserves a raise!",4,44,14,25
+Sushi Paradise,Japanese,Loved the ambiance and the chef really knows their craft. The chef deserves a raise!,5,30,5,27
+Sushi Paradise,Japanese,"Hidden gem in the city, every dish was a masterpiece. Perfect for special occasions.",4,35,2,12
+Sushi Paradise,Japanese,Nothing special but would probably return if nearby. Has potential to improve.,3,29,11,1
+Sushi Paradise,Japanese,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",4,43,14,8
+Sushi Paradise,Japanese,"Perfect date night spot, romantic ambiance and delicious food. Service was top notch.",4,47,3,27
+Sushi Paradise,Japanese,Exceptional quality and the dessert was absolutely heavenly. Perfect for special occasions.,5,27,4,6
+Sushi Paradise,Japanese,"Complete waste of money, microwave quality at restaurant prices. Reported to health department.",2,0,14,19
+Sushi Paradise,Japanese,"Wonderful staff, quick service and incredibly tasty dishes. Prices are very reasonable.",4,17,2,10
+Sushi Paradise,Japanese,"Hidden gem in the city, every dish was a masterpiece. Service was top notch.",4,48,16,5
+Sushi Paradise,Japanese,"Perfect date night spot, romantic ambiance and delicious food. Perfect for special occasions.",5,47,19,23
+Sushi Paradise,Japanese,"Absolutely amazing food, best restaurant in the city! Prices are very reasonable.",5,48,12,17
+Curry Kingdom,Indian,"Reasonable place, the pasta was decent but uninspiring. Service was acceptable.",3,2,10,12
+Curry Kingdom,Indian,"Hidden gem in the city, every dish was a masterpiece. Service was top notch.",4,26,9,18
+Curry Kingdom,Indian,Never again! Dry overcooked meat and soggy vegetables. Reported to health department.,1,14,9,4
+Curry Kingdom,Indian,"Fantastic experience from start to finish, highly recommend! Perfect for special occasions.",5,36,2,22
+Curry Kingdom,Indian,"Incredible flavors, friendly staff and cozy atmosphere. Prices are very reasonable.",4,8,16,28
+Curry Kingdom,Indian,"Pretty standard restaurant, food came out on time. Might try again someday.",3,44,15,21
+Curry Kingdom,Indian,"Fantastic experience from start to finish, highly recommend! The chef deserves a raise!",4,48,12,1
+Curry Kingdom,Indian,Found a hair in my food and the waiter was dismissive. Will not be returning.,2,22,18,2
+Curry Kingdom,Indian,"Five stars all the way, food was piping hot and delicious! Service was top notch.",4,48,13,11
+Curry Kingdom,Indian,"Food was okay, a bit pricey for what you get though.",3,0,2,12
+Curry Kingdom,Indian,"Hidden gem in the city, every dish was a masterpiece. Prices are very reasonable.",5,16,2,27
+Curry Kingdom,Indian,"The food was divine, fresh ingredients and generous portions. The chef deserves a raise!",4,23,18,4
+Curry Kingdom,Indian,"Perfect date night spot, romantic ambiance and delicious food. Prices are very reasonable.",5,4,16,4
+Curry Kingdom,Indian,"Loved every bite, will definitely come back again soon! Service was top notch.",4,33,10,21
+Curry Kingdom,Indian,Great value for money and the flavors were authentic.,4,10,6,27
+Curry Kingdom,Indian,"Complete waste of money, microwave quality at restaurant prices.",1,40,13,25
+Curry Kingdom,Indian,"Absolutely amazing food, best restaurant in the city! Service was top notch.",5,18,15,11
+Curry Kingdom,Indian,"The food was divine, fresh ingredients and generous portions. Perfect for special occasions.",4,35,5,10
+Curry Kingdom,Indian,"Reasonable place, the pasta was decent but uninspiring. Service was acceptable.",3,14,10,24
+Curry Kingdom,Indian,"Absolutely amazing food, best restaurant in the city! Service was top notch.",4,13,17,27
+Curry Kingdom,Indian,"Superb dining experience, will bring my family next time. Prices are very reasonable.",5,6,12,2
+Curry Kingdom,Indian,"Neither impressed nor disappointed, just an average meal.",3,44,16,16
+Curry Kingdom,Indian,"Perfect date night spot, romantic ambiance and delicious food. Service was top notch.",5,37,2,26
+Curry Kingdom,Indian,"Absolutely disgusting, sent food back twice and left hungry.",1,49,10,2
+Curry Kingdom,Indian,"Wonderful staff, quick service and incredibly tasty dishes.",5,15,11,1
+Curry Kingdom,Indian,"Loved every bite, will definitely come back again soon! The chef deserves a raise!",4,29,14,2
+Curry Kingdom,Indian,"Perfect date night spot, romantic ambiance and delicious food. Perfect for special occasions.",5,48,7,6
+Curry Kingdom,Indian,Overpriced and the food was bland and disappointing. Reported to health department.,1,35,4,0
+Curry Kingdom,Indian,"Complete waste of money, microwave quality at restaurant prices.",1,4,8,0
+Curry Kingdom,Indian,"Incredible flavors, friendly staff and cozy atmosphere. The chef deserves a raise!",5,33,13,13
+Curry Kingdom,Indian,Loved the ambiance and the chef really knows their craft. Service was top notch.,4,34,7,2
+Curry Kingdom,Indian,"Five stars all the way, food was piping hot and delicious!",5,31,1,12
+Curry Kingdom,Indian,"Hidden gem in the city, every dish was a masterpiece. Perfect for special occasions.",5,39,16,22
+Curry Kingdom,Indian,Great value for money and the flavors were authentic. Prices are very reasonable.,5,1,1,25
+Curry Kingdom,Indian,"Superb dining experience, will bring my family next time. Prices are very reasonable.",4,33,6,2
+Curry Kingdom,Indian,Loved the ambiance and the chef really knows their craft. Service was top notch.,5,28,6,20
+Curry Kingdom,Indian,"Absolutely amazing food, best restaurant in the city! The chef deserves a raise!",5,29,12,20
+Curry Kingdom,Indian,"It was alright, not the best but certainly not the worst. Might try again someday.",3,24,16,22
+Curry Kingdom,Indian,Loved the ambiance and the chef really knows their craft. Perfect for special occasions.,4,9,3,7
+Curry Kingdom,Indian,Outstanding service and the pasta was perfectly cooked. Perfect for special occasions.,4,13,17,27
+Curry Kingdom,Indian,Nothing special but would probably return if nearby.,3,14,3,12
+Curry Kingdom,Indian,"Perfect date night spot, romantic ambiance and delicious food. Perfect for special occasions.",5,11,13,1
+Curry Kingdom,Indian,"Worst restaurant experience I have ever had, never returning. Will not be returning.",2,10,8,11
+Curry Kingdom,Indian,"Best meal I have had in years, exceeded all expectations! The chef deserves a raise!",4,28,17,21
+Curry Kingdom,Indian,Exceptional quality and the dessert was absolutely heavenly. Perfect for special occasions.,5,7,8,5
+Curry Kingdom,Indian,"Neither impressed nor disappointed, just an average meal.",3,28,10,24
+Curry Kingdom,Indian,"Loved every bite, will definitely come back again soon! The chef deserves a raise!",4,26,1,11
+Curry Kingdom,Indian,"Incredible flavors, friendly staff and cozy atmosphere. Service was top notch.",4,12,18,16
+Curry Kingdom,Indian,"Perfect date night spot, romantic ambiance and delicious food. Prices are very reasonable.",4,36,16,25
+Curry Kingdom,Indian,"Terrible service, waited over an hour for cold food!",1,26,9,14
+Curry Kingdom,Indian,Found a hair in my food and the waiter was dismissive. Will not be returning.,2,12,4,0
+Curry Kingdom,Indian,Decent food but nothing that blew me away really.,3,46,8,20
+Curry Kingdom,Indian,"Loved every bite, will definitely come back again soon! Prices are very reasonable.",4,36,9,16
+Curry Kingdom,Indian,Exceptional quality and the dessert was absolutely heavenly. Prices are very reasonable.,4,40,2,14
