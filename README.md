@@ -181,7 +181,7 @@ Yelp_Sentiment_Analysis/
 <h2>🍽️ Yelp Reviews Sentiment Dashboard</h2>
 
 <p align="center">
-  <img src="yelp_sentiment_dashboard.png" alt="Yelp Sentiment Dashboard" width="100%">
+  <img src="yelp_sentiment_analysis.png" alt="Yelp Sentiment Dashboard" width="100%">
 </p>
 
 
