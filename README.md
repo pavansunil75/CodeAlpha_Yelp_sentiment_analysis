@@ -198,10 +198,13 @@ Yelp_Sentiment_Analysis/
 
 **Sunil Pavan Raja**
 
-Bachelor of Technology (Artificial Intelligence and Data Science)  
+Bachelor of Technology (Artificial Intelligence and Data Science)
+
 Prathyusha Engineering College
 
 GitHub: https://github.com/pavansunil75
+
+E-mail id: pavansunil75@gmail.com
 
 
 ## 🙏 Acknowledgements
@@ -218,6 +221,5 @@ GitHub: https://github.com/pavansunil75
 
 This project is intended for educational and internship purposes.
 
----
 
 ⭐ If you found this project useful, consider giving it a star.
