@@ -55,7 +55,7 @@ The dataset contains Yelp restaurant reviews along with ratings and restaurant-r
 
 ## 📊 Dashboard Visualizations
 
-The generated dashboard (`yelp_sentiment_dashboard.png`) includes:
+The generated dashboard (`yelp_sentiment_analysis.png`) includes:
 
 | Visualization | Purpose |
 |--------------|---------|
@@ -161,7 +161,7 @@ The script will automatically:
 3. Calculate polarity and subjectivity scores.
 4. Generate visualizations.
 5. Create the sentiment dashboard.
-6. Save the dashboard as `yelp_sentiment_dashboard.png`.
+6. Save the dashboard as `yelp_sentiment_analysis.png`.
 
 
 ## 📁 Project Structure
@@ -171,7 +171,7 @@ Yelp_Sentiment_Analysis/
 │
 ├── yelp_sentiment_analysis.py
 ├── yelp_reviews.csv
-├── yelp_sentiment_dashboard.png
+├── yelp_sentiment_analysis.png
 └── README.md
 ```
 
@@ -220,6 +220,5 @@ E-mail id: pavansunil75@gmail.com
 ## 📄 License
 
 This project is intended for educational and internship purposes.
-
 
 ⭐ If you found this project useful, consider giving it a star.
